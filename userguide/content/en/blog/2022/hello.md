@@ -6,8 +6,8 @@ description: Welcome to the Docsy blog!
 ---
 
 ## Hello
+Esto es texto para modificar
 
-It may seem strange to see a "Hello" post from a project that's several years old, but as Docsy matures as a community-driven project, we thought it was time to (re)introduce ourselves and talk about what's new with your favorite (we hope) Hugo documentation theme!
 
 ### Discuss amongst yourselves
 
